@@ -1,0 +1,2 @@
+# Schizofreniapy
+Diagnostic algorithms
